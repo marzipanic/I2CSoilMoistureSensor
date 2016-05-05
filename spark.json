@@ -1,0 +1,7 @@
+{
+  "name": I2CSoilMoistureSensor",
+  "author": "Ingo Fischer <ingo@fischer-ka.de>",
+  "license": "MIT",
+  "version": "1.1.0",
+  "description": "Simple library for interacting with the I2C Soil Moisture Sensor, a variant of the Chirp sensor (https://github.com/Miceuz/i2c-moisture-sensor), which is capable of reading soil moisture, temperature, and light levels."
+}
